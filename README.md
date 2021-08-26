@@ -1,10 +1,7 @@
-- 👋 Hi, I’m the first pronoun but  @adjawoudon
-- 👀 I’m interested in communications between beings
-- 🌱 I’m currently learning at my own pace
-- 💞️ I’m looking to collaborate on my weakness
-- 📫 reach me at team@zroze.com
-
-<!---
-adjawoudo/adjawoudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- to predict primes index, read primes/algo/tutorial
+- for solutions to the landau's problem, read primes/landau/tutorial
+- for solutions to p = np, read primes/pnp/tutorial
+- on how to use zroze, read app/intro/tutorial
+- for vizualing the behavior of the primes and the solutions above, read app/primes/tutorial 
+- for human-animal communication, read app/language/tutorial
+- for the longest poem, read app/pwezi/tutorial  
